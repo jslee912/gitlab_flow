@@ -1,0 +1,4 @@
+프로젝트: GitLab Flow 실습
+버전: 1.0
+배포 환경: production
+상태: 운영 중
